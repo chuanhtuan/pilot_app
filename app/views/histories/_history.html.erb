@@ -1,0 +1,8 @@
+<li>
+  <%= gravatar_for history.poster %>
+  <%= link_to history.poster.name, history.poster %>
+  <span class="content"><%= history.content %></span>
+  <span class="timestamp">
+    Posted <%= time_ago_in_words(history.created_at) %> ago.
+  </span>
+</li>

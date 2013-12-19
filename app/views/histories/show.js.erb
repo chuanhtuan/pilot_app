@@ -1,0 +1,3 @@
+var data = "<%= escape_javascript(render partial: 'shared/histories', :locals => {:receiver => @receiver, :histories => @histories }) %>"
+$("#__histories").html($(data).find('#__histories').html())
+$("#__history_form").html($(data).find('#__history_form').html())

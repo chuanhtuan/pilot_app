@@ -1,0 +1,10 @@
+<% if @users.any? %>
+  <ul class="users">
+    <% @users.each do |user| %>
+        <li>
+          <%= gravatar_for user %>
+          <%= link_to user.name, "histories/#{user.id}?page=1", remote: true %>
+        </li>
+    <% end %>
+  </ul>
+<% end %>

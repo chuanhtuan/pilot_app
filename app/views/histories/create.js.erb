@@ -1,0 +1,2 @@
+$("#__histories").append("<%= escape_javascript(render partial: 'histories/history', :locals => {:history => @history }) %>")
+$("#__history_form").find('#__content').val('');

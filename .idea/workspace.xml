@@ -4,9 +4,145 @@
     <list default="true" id="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" name="Default" comment="" />
     <ignored path="pilot_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380796613140" ignored="false" />
+    <file path="/Dummy.txt" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381476746358" ignored="false" />
     <file path="$PROJECT_DIR$/../sample_app/Gemfile" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380796699914" ignored="false" />
-    <file path="/secret_token.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380798908761" ignored="false" />
+    <file path="/secret_token.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381391851224" ignored="false" />
+    <file path="/a.dummy" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382087230268" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381227441457" ignored="false" />
+    <file path="/routes.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1383125928667" ignored="false" />
+    <file path="/main.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380854374575" ignored="false" />
+    <file path="$PROJECT_DIR$/../sample_app/app/assets/stylesheets/custom.css.scss" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380853826739" ignored="false" />
+    <file path="/custom.css.scss" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381128737454" ignored="false" />
+    <file path="/_chatters.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380878296598" ignored="false" />
+    <file path="/_history.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380882909602" ignored="false" />
+    <file path="/sessions_helper.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380855397123" ignored="false" />
+    <file path="/database.yml" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381397510898" ignored="false" />
+    <file path="/20131003014814_create_users.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380857878350" ignored="false" />
+    <file path="/application_helper.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382083081545" ignored="false" />
+    <file path="/home.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381482003746" ignored="false" />
+    <file path="/_header.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382064192164" ignored="false" />
+    <file path="/sessions_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381481739682" ignored="false" />
+    <file path="/contact.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381129937818" ignored="false" />
+    <file path="/user.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381476172146" ignored="false" />
+    <file path="/20131003082323_create_contacts.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380860164705" ignored="false" />
+    <file path="/users_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381750653362" ignored="false" />
+    <file path="$PROJECT_DIR$/../sample_app/app/controllers/users_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380860718404" ignored="false" />
+    <file path="/static_pages_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381488322555" ignored="false" />
+    <file path="/micropost.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380868837305" ignored="false" />
+    <file path="/20131003072546_create_histories.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380867450658" ignored="false" />
+    <file path="/_user.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381392943659" ignored="false" />
+    <file path="/_follow.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380876858562" ignored="false" />
+    <file path="/_histories.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381127748265" ignored="false" />
+    <file path="/show_histories.js.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380871848120" ignored="false" />
+    <file path="/histories_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381127064898" ignored="false" />
+    <file path="/_chatter_item.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380873027289" ignored="false" />
+    <file path="/history.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380883690793" ignored="false" />
+    <file path="/show.js.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381119387549" ignored="false" />
+    <file path="/_feed.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380882353170" ignored="false" />
+    <file path="/_message_form.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1380884288897" ignored="false" />
+    <file path="/_history_form.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1383126308367" ignored="false" />
+    <file path="$PROJECT_DIR$/../sample_app/app/models/user.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381117607851" ignored="false" />
+    <file path="/microposts_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381117761778" ignored="false" />
+    <file path="$PROJECT_DIR$/../sample_app/app/controllers/microposts_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381117738975" ignored="false" />
+    <file path="/create.js.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381127428959" ignored="false" />
+    <file path="/new.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382320458784" ignored="false" />
+    <file path="/contacts_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381133300845" ignored="false" />
+    <file path="$PROJECT_DIR$/../sample_app/config/routes.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381223052211" ignored="false" />
+    <file path="/_footer.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381385813939" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/Gemfile" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381803563246" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/config/database.yml" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381397987710" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/config/initializers/secret_token.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381394743756" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/db/schema.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381398671676" ignored="false" />
+    <file path="/schema.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381397139557" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/config/routes.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381488667902" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/user.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381476214895" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/helpers/application_helper.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382083086948" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/controllers/application_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381392557115" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/controllers/users_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381750669891" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/controllers/static_pages_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381488322555" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/layouts/application.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381392809210" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/users/new.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381392933371" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/users/_user.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381399322129" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/db/migrate/20131010014814_create_users.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381397382097" ignored="false" />
+    <file path="/20131010014814_create_users.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381397382097" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/test/mysql_rake_test.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381397765867" ignored="false" />
+    <file path="/users_helper.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381398827389" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/helpers/users_helper.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381398828380" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/subject.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381478302758" ignored="false" />
+    <file path="/subject.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381478159674" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/concerns/group.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381472344783" ignored="false" />
+    <file path="/group.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381472334968" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/subject_group.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381475269428" ignored="false" />
+    <file path="/subject_group.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381474238652" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/static_pages/home.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381482011310" ignored="false" />
+    <file path="/conclusion.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381476073940" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/conclusion.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381476080161" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/assets/javascripts/application.js" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382088117765" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/layouts/_header.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382064192164" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/users/edit.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381476928134" ignored="false" />
+    <file path="/edit.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382089036484" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/users/show.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381477164106" ignored="false" />
+    <file path="/show.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382092121104" ignored="false" />
+    <file path="/question.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382086699137" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/question.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382086715391" ignored="false" />
+    <file path="/answer.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382088807884" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/answer.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382088937664" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/subject_question_group.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381478266300" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/question_group.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381478073030" ignored="false" />
+    <file path="/question_group.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381478064369" ignored="false" />
+    <file path="/subject_question_group.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381478281989" ignored="false" />
+    <file path="/exam_question.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381479281245" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/exam_question.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382083493200" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/exam_question_detail.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381484265695" ignored="false" />
+    <file path="/exam_question_detail.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381484165616" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/examination.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382078968610" ignored="false" />
+    <file path="/examination.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382067666569" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/examination_detail.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381486787938" ignored="false" />
+    <file path="/examination_detail.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381486522183" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/answer_sheet.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382083470747" ignored="false" />
+    <file path="/answer_sheet.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382083453812" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/models/answer_sheet_detail.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382095370282" ignored="false" />
+    <file path="/answer_sheet_detail.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382095370282" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/examination/index.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381480878294" ignored="false" />
+    <file path="/index.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382095146271" ignored="false" />
+    <file path="/_examination.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382083945127" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/examination/_examination.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381481195135" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/controllers/examinations_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382081362165" ignored="false" />
+    <file path="/examinations_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382078135851" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/controllers/sessions_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381481764664" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/examinations/_examination.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382083946186" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/helpers/examinations_helper.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381753327172" ignored="false" />
+    <file path="/examinations_helper.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381753327172" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/examinations/show.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381487154934" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/controllers/answer_sheets_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382084239197" ignored="false" />
+    <file path="/answer_sheets_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382079186522" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/answer_sheets/show.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382084442032" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/shared/_question.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381491926828" ignored="false" />
+    <file path="/_question.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381491387823" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/shared/_answer.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382087214645" ignored="false" />
+    <file path="/_answer.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382087214645" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/admin/_examination.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382062501383" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/log/development.log" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381802193494" ignored="false" />
+    <file path="/Gemfile" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381803559615" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/db/data.yml" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381804038150" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/answers/create.js.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381996077089" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/answers/new.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1381996358553" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/questions/new.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382320468066" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/controllers/questions_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382320938439" ignored="false" />
+    <file path="/questions_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382320825001" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/questions/edit.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382089303440" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/questions/index.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382095169474" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/config/locales/en.yml" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382067621425" ignored="false" />
+    <file path="/en.yml" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382067621425" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/examinations/index.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382084629323" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/answer_sheets/edit.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382084070556" ignored="false" />
+    <file path="/application.js" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382088085371" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/questions/show.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382092121498" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/controllers/exports_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382093453497" ignored="false" />
+    <file path="/exports_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382093453497" ignored="false" />
+    <file path="$PROJECT_DIR$/../framgia_training/app/views/monitor/index.html.erb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1382093489257" ignored="false" />
+    <file path="/websocket_controller.rb" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1383126923921" ignored="false" />
+    <file path="/web_socket.js.coffee" changelist="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" time="1383126880959" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +162,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
+      <file leaf-file-name="_history.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/histories/_history.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -35,17 +171,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+      <file leaf-file-name="_history_form.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/shared/_history_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="84" selection-start="673" selection-end="673" vertical-scroll-proportion="0.0">
+            <state line="0" column="31" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <file leaf-file-name="_histories.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/shared/_histories.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="26" selection-start="186" selection-end="186" vertical-scroll-proportion="0.2795031">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.js.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/histories/show.js.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -53,10 +198,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="secret_token.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
+      <file leaf-file-name="application_helper.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="8" selection-start="816" selection-end="816" vertical-scroll-proportion="0.64784056">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sessions_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web_socket_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/web_socket_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="44" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web_socket.js.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/web_socket.js.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="53" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1383126898618" expanded="true" signature="341:495" placeholder="..." />
+                <marker date="1383126898618" expanded="true" signature="382:448" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="21" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -72,15 +265,29 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
+        <option value="$PROJECT_DIR$/app/models/contact.rb" />
+        <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/contacts/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/histories_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/contacts_controller.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/config/initializers/secret_token.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/websocket_controller.rb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/websocket.js.coffee" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/views/shared/_history_form.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/web_socket_controller.rb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/web_socket.js.coffee" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="1301" />
+    <option name="width" value="1295" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -109,6 +316,17 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pilot_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="RailsProjectView" />
       <pane id="Scope">
         <subPane subId="All">
           <PATH>
@@ -130,7 +348,67 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="config">
+            <PATH_ELEMENT USER_OBJECT="vendor/assets">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spec">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="db">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="db">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="migrate">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -148,31 +426,326 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="initializers">
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="views">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="users">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="views">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="static_pages">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="views">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="shared">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="views">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="sessions">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="views">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="layouts">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="views">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="histories">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="views">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="contacts">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="models">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mailers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="helpers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="controllers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="assets">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pilot_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="assets">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="javascripts">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pilot_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../framgia_training" />
+    <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Rails.Development: pilot_app">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/histories" />
+      <recent name="$PROJECT_DIR$/app/views/shared" />
+      <recent name="$PROJECT_DIR$/db/migrate" />
+      <recent name="$PROJECT_DIR$/app/models" />
+      <recent name="$PROJECT_DIR$/app/views/users" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Rake.db:migrate">
+    <configuration default="false" name="db:migrate" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
+      <module name="pilot_app" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="development" />
+        <env name="VERSION" value="20131003092546" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="db:migrate" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -253,6 +826,26 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="" />
@@ -312,6 +905,13 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="false" name="test" type="RakeRunConfigurationType" factoryName="Rake">
@@ -416,14 +1016,37 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Rake.test" />
-      <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
-      <item index="2" class="java.lang.String" itemvalue="Rails.Production: pilot_app" />
-      <item index="3" class="java.lang.String" itemvalue="Rails.Development: pilot_app" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Rake.db:migrate" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="2" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Production: pilot_app" />
+      <item index="4" class="java.lang.String" itemvalue="Rails.Development: pilot_app" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Rake.db:migrate" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1e4c35e6-71fc-4dfa-94a3-1e061163dc06" name="Default" comment="" />
@@ -432,27 +1055,47 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="24" width="1295" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.49960032" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940048" sideWeight="0.75" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29477912" sideWeight="0.6568323" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3431677" sideWeight="0.50120485" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.49960032" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3431677" sideWeight="0.49879518" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -513,33 +1156,110 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
+    <entry file="file://$PROJECT_DIR$/db/migrate/20131003014814_create_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="24" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/users_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/sessions_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/static_pages_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="84" selection-start="673" selection-end="673" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
+    <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="8" selection-start="816" selection-end="816" vertical-scroll-proportion="0.64784056">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/histories/create.js.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/web_socket_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="44" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/web_socket.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="53" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1383126898618" expanded="true" signature="341:495" placeholder="..." />
+            <marker date="1383126898618" expanded="true" signature="382:448" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/shared/_history_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="31" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/histories/show.js.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/histories/_history.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="21" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/shared/_histories.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="26" selection-start="186" selection-end="186" vertical-scroll-proportion="0.2795031">
           <folding />
         </state>
       </provider>

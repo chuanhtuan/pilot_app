@@ -1,0 +1,12 @@
+<% @history = History.new %>
+<%= form_for(@history, html: { method: :create }, remote: true) do |f| %>
+    <% if !@receiver.nil? %>
+    <%= f.hidden_field :receiver_id, :value => @receiver.id %>
+    <%= f.hidden_field :poster_id, :value => @current_user.id %>
+    <% end %>
+    <%= render 'shared/error_messages', object: f.object %>
+    <div class="field">
+      <%= f.text_area :content, placeholder: "Compose new micropost...", id: "__content" %>
+    </div>
+    <%= f.submit "Post", class: "btn btn-large btn-primary", id: "send" %>
+<% end %>

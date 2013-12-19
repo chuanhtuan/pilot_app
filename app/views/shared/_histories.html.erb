@@ -1,0 +1,18 @@
+<div>
+    <ul class="microposts" id="__histories">
+      <% if !@receiver.nil? %>
+      <% @histories.each do |history| %>
+          <%= render history %>
+      <% end %>
+      <% end %>
+    </ul>
+    <% if !@receiver.nil? %>
+      <%= will_paginate @histories %>
+    <% end %>
+    <div id="__history_form">
+    <%= render partial: 'shared/history_form', :locals => {:receiver => @receiver} %>
+    </div>
+</div>
+<script>
+new Chat.Controller('localhost:3000/websocket', true);
+</script>
