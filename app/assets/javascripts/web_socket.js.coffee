@@ -14,7 +14,7 @@ class Chat.Controller
   bindEvents: =>
     @dispatcher.bind 'new_message', @newMessage
     @dispatcher.bind 'user_list', @userListMessage
-    $('#send').on 'click', @sendMessage
+    #$('#send').on 'click', @sendMessage
 
   newMessage: (message) =>
     @messageQueue.push message
@@ -24,6 +24,8 @@ class Chat.Controller
     console.log('ccc');
 
   sendMessage: (event) =>
+    console.log('sendMessage')
+    alert('acb')
     event.preventDefault()
     message = $('#message').val()
     @dispatcher.trigger 'new_message', {user_name: $('#__current_user').val() + '', msg_body: message}
@@ -33,7 +35,7 @@ class Chat.Controller
     $('#__histories').append messageTemplate
 
   createGuestUser: =>
-    console.log('bbb');
+    console.log('bbb1');
     @dispatcher.trigger 'new_user', { user_id: $('#__current_user').val() + '' }
 
   template: (message) ->

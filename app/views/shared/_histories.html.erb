@@ -14,5 +14,7 @@
     </div>
 </div>
 <script>
-new Chat.Controller('localhost:3000/websocket', true);
+$(document).ready(function() {
+  new Chat.Controller('localhost:3000/websocket', true);
+});
 </script>

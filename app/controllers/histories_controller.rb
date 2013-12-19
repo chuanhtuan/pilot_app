@@ -13,6 +13,7 @@ class HistoriesController < ApplicationController
   end
 
   def create
+    binding.pry
     @history = History.new(history_params)
     if @history.save
       # respond_to do |format|
@@ -22,17 +23,15 @@ class HistoriesController < ApplicationController
       #   }
       # end
       #user_msg :new_message, message[:msg_body].dup
-      logger.info "----------start----------"
-      logger.info @history.content
+      logger.info "----------send to receiver----------"
       event = WebsocketRails::Event.new(:new_message, data: {
         user_name:  @history.poster.name, 
         received:   Time.now.to_s(:short), 
         msg_body:   ERB::Util.html_escape(@history.content) 
       })
-      #WebsocketRails["system"].trigger event
-      #binding.pry
-      # WebsocketRails.users[@history.receiver.id.to_s].send_message :new_message, { 
-      #WebsocketRails.users[@history.receiver.id.to_s].trigger event
+      WebsocketRails.users[@history.receiver.id.to_s].trigger event
+
+      logger.info "----------broadcast message----------"
       WebsocketRails.users.each do |connection|
         event = WebsocketRails::Event.new(:new_message, data: {
           user_name:  @history.poster.name, 
@@ -41,6 +40,9 @@ class HistoriesController < ApplicationController
         })
         connection.trigger event
       end
+      #WebsocketRails["system"].trigger event
+      #binding.pry
+      # WebsocketRails.users[@history.receiver.id.to_s].send_message :new_message, { 
       # WebsocketRails.broadcast_message Event.new(:new_message, data: {
       #   user_name:  @history.poster.name, 
       #   received:   Time.now.to_s(:short), 
@@ -56,14 +58,14 @@ class HistoriesController < ApplicationController
     end
   end
 
-  def aaa(connection)
-    event = WebsocketRails::Event.new(:new_message, data: {
-        user_name:  @history.poster.name, 
-        received:   Time.now.to_s(:short), 
-        msg_body:   ERB::Util.html_escape(@history.content) 
-      })
-    connection.trigger event
-  end
+  # def aaa(connection)
+  #   event = WebsocketRails::Event.new(:new_message, data: {
+  #       user_name:  @history.poster.name, 
+  #       received:   Time.now.to_s(:short), 
+  #       msg_body:   ERB::Util.html_escape(@history.content) 
+  #     })
+  #   connection.trigger event
+  # end
 
   def history_params
     params.require(:history).permit(:poster_id, :receiver_id, :content)
