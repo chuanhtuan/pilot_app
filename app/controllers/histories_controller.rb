@@ -3,7 +3,7 @@ class HistoriesController < ApplicationController
 
   def show
     @receiver = User.find(params[:id])
-    @histories = @receiver.histories_with(current_user).paginate(:page => params[:page], :order => 'created_at')
+    @histories = @receiver.histories_with(current_user).paginate(:page => params[:page], :order => 'created_at DESC')
     respond_to do |format|
       format.html { render :partial => "shared/histories", :histories => @histories, :receiver => @receiver }
       format.js {
@@ -13,9 +13,8 @@ class HistoriesController < ApplicationController
   end
 
   def create
-    binding.pry
     @history = History.new(history_params)
-    if @history.save
+    if @history.save!
       # respond_to do |format|
       #   format.html { render :partial => "histories/history", :history => @history }
       #   format.js {
@@ -31,15 +30,15 @@ class HistoriesController < ApplicationController
       })
       WebsocketRails.users[@history.receiver.id.to_s].trigger event
 
-      logger.info "----------broadcast message----------"
-      WebsocketRails.users.each do |connection|
-        event = WebsocketRails::Event.new(:new_message, data: {
-          user_name:  @history.poster.name, 
-          received:   Time.now.to_s(:short), 
-          msg_body:   ERB::Util.html_escape(@history.content) 
-        })
-        connection.trigger event
-      end
+      # logger.info "----------broadcast message----------"
+      # WebsocketRails.users.each do |connection|
+      #   event = WebsocketRails::Event.new(:new_message, data: {
+      #     user_name:  @history.poster.name, 
+      #     received:   Time.now.to_s(:short), 
+      #     msg_body:   ERB::Util.html_escape(@history.content) 
+      #   })
+      #   connection.trigger event
+      # end
       #WebsocketRails["system"].trigger event
       #binding.pry
       # WebsocketRails.users[@history.receiver.id.to_s].send_message :new_message, { 

@@ -1,6 +1,5 @@
 <% if signed_in? %>
-    <input type="hidden" id="__current_user" value="<%= @current_user.id %>">
-    <div class="row">
+    <div class="row" id="__chat_container" data-user="<%= @current_user.id %>" data-url="<%= request.host %>:<%= request.port %>/websocket">
       <div class="span4">
         <h3>Chat List <%= link_to "Add Contact", "contacts/new?status=0", class: "add-contact"%></h3>
         <%= render 'shared/chatters' %>

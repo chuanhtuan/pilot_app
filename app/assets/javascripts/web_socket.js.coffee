@@ -1,42 +1,37 @@
-#jQuery ->
-#  window.chatController = new Chat.Controller('localhost:3000/websocket', true);
+jQuery ->
+  window.chatController = new Chat.Controller($('#__chat_container').data('url'), true);
 
 window.Chat = {}
 
 class Chat.Controller
 
   constructor: (url,useWebSockets) ->
-    @messageQueue = []
     @dispatcher = new WebSocketRails(url,useWebSockets)
+    console.log('connect')
     @dispatcher.on_open = @createGuestUser 
     @bindEvents()
 
   bindEvents: =>
     @dispatcher.bind 'new_message', @newMessage
-    @dispatcher.bind 'user_list', @userListMessage
     #$('#send').on 'click', @sendMessage
 
   newMessage: (message) =>
-    @messageQueue.push message
+    console.log('newMessage')
     @appendMessage message
-
-  userListMessage: (message) =>
-    console.log('ccc');
 
   sendMessage: (event) =>
     console.log('sendMessage')
-    alert('acb')
     event.preventDefault()
     message = $('#message').val()
     @dispatcher.trigger 'new_message', {user_name: $('#__current_user').val() + '', msg_body: message}
 
   appendMessage: (message) ->
     messageTemplate = @template(message)
-    $('#__histories').append messageTemplate
+    $('#__histories').prepend messageTemplate
 
   createGuestUser: =>
-    console.log('bbb1');
-    @dispatcher.trigger 'new_user', { user_id: $('#__current_user').val() + '' }
+    console.log('createGuestUser');
+    @dispatcher.trigger 'new_user', { user_id: $('#__chat_container').data('user') }
 
   template: (message) ->
     html =
